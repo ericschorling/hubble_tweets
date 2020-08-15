@@ -6,3 +6,7 @@ html {
     font-size: 16px;
     
 }
+
+.hero.is-primary.is-bold {
+    background-image: url("http://getwallpapers.com/wallpaper/full/f/c/5/117040.jpg");
+}
